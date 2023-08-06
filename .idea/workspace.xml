@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16214408-1f05-4366-85ec-cd35cd0f0d2d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Text To Handwriting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dummy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/101.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/102.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/103.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/104.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/105.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/106.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/107.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/108.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/109.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/110.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/111.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/112.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/113.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/115.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/116.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/117.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/118.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/119.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/121.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/122.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/63.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/65.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/67.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/68.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/69.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/71.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/73.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/74.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/75.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/77.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/78.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/79.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/81.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/82.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/83.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/84.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/85.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/86.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/88.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/89.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/90.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/97.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/98.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/99.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfont/space.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Tc2CFvLSFgL9vqEeSQmntllPfi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/BOMMIDI SOWMYA/OneDrive/Desktop/Text-to-Handwriting-master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16214408-1f05-4366-85ec-cd35cd0f0d2d" name="Changes" comment="" />
+      <created>1691327919128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691327919128</updated>
+    </task>
+    <servers />
+  </component>
+</project>
