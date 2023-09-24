@@ -22,3 +22,5 @@ Do you ever get irritated by pointless college/school assignments? Hell yeah!!! 
    for example -
    
         for alphabet A name of cropped image should be 65.png
+# Documentation 
+<a href="https://pillow.readthedocs.io/en/stable/" rel="nofollow">Offical PIL Documentation</a>
